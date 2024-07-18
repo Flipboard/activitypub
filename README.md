@@ -54,7 +54,7 @@ Will always return the same ServiceLevel Actor
 
 The current webfinger implementation only supports `JSON` responses.
 
-## Accounts on flipboard returned through webfinger
+## Accounts on Flipboard returned through webfinger
 
 Flipboard accounts that are federated will return an `"application/activity+json` link in the webfinger response.
 
